@@ -36,5 +36,5 @@ Define test step of Check Instagram Analytics
 * Check UI of IG Analytic Account
 This case we need to add screenshot command for capture screen
 * Check edit Analytic Account
-* Check delete Analytic Account
+* Check delete Analytic Account<br>
 we can execute all test cases by click P.All button

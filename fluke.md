@@ -27,12 +27,13 @@ just record and playback.
   
 ### Test sample :
 I will sample record with my project Anytag
-Define test step of Create Account of Instagram and Youtube Analytics
+Define test step of Check Instagram Analytics
 * Login and Click Analytic menu on Anytag<br>
-![](./images/case1.png)
-
+![](./fluke/images/case1.png)
+![](./fluke/images/rcase1.png)
  Look at screen command will auto generate when we click record and interaction with website,we can modify command or delete step by step
-* Click add account for create IG Analytics account
-* Check UI of Analytic Account
-* Click add account for create YT Analytics account
+* Check add account for create IG Analytics 
+* Check UI of IG Analytic Account
+* Check edit Analytic Account
+* Check delete Analytic Account
 

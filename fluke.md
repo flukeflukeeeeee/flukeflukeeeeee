@@ -18,7 +18,9 @@ just record and playback.
 ## How to use Katalon recorder?
 1. First have to install extension on your web browser,it easy to install on chrome extension,just go to chrome store and **[search katalon recorder](https://chrome.google.com/webstore/search/katalon%20recorder)** after that click add to chrome.
 2. Click puzzle icon on the right corner then click katalon recorder icon, the screen default will appear.
-<img src="./images/s1.png" alt="graph" style="width: 200px"/>
+<div style="display:block;text-align:center">
+<img src="./images/s1.png" alt="graph" style="width: 200px"/></center>
+</div>
 3. Click record button on screen and then every interaction on web will recorded by katalon recorder or you can write script on command and click add for adding step
 4. if need to finish recording,click on katalon recorder icon and click stop recorder like  to create new test case
 5. Click play button to playback the test case, you can see all actions is perfectly recorded are in green,it mean steps are pass but if not perfectly action in red mean steps are fail.
@@ -30,7 +32,7 @@ just record and playback.
 I will sample record with my project Anytag
 Define test step of Create Account of Instagram and Youtube Analytics
 * Login and Click Analytic menu on Anytag<br>
-#### Look at screen command will auto generate when we click record and interaction with website,we can modify command or delete step by step
+ Look at screen command will auto generate when we click record and interaction with website,we can modify command or delete step by step
 * Click add account for create IG Analytics account
 * Check UI of Analytic Account
 * Click add account for create YT Analytics account

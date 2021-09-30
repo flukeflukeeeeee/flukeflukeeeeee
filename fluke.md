@@ -34,6 +34,7 @@ Define test step of Check Instagram Analytics
  Look at screen command will auto generate when we click record and interaction with website,we can modify command or delete step by step
 * Check add account for create IG Analytics 
 * Check UI of IG Analytic Account
+This case we need to add screenshot command for capture screen
 * Check edit Analytic Account
 * Check delete Analytic Account
-
+we can execute all test cases by click P.All button

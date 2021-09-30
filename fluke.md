@@ -29,6 +29,7 @@ just record and playback.
 I will sample record with my project Anytag
 Define test step of Create Account of Instagram and Youtube Analytics
 * Login and Click Analytic menu on Anytag<br>
+
  Look at screen command will auto generate when we click record and interaction with website,we can modify command or delete step by step
 * Click add account for create IG Analytics account
 * Check UI of Analytic Account

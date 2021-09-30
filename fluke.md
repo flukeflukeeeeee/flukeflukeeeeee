@@ -26,8 +26,8 @@ just record and playback.
 
   
 ### Test sample :
-I will sample record with my project Anytag
-Define test step of Check Instagram Analytics
+I will sample test with my project Anytag
+Start define test step of Check Instagram Analytics
 * Login and Click Analytic menu on Anytag<br>
 ![](./fluke/images/case1.png)
 ![](./fluke/images/rcase1.png)
